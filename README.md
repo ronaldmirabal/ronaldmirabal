@@ -1,5 +1,11 @@
 ### Hi,Im Ronald Mirabal
 
+I'm 27 years old self-taught Full-Stack developer from Dominican Republic.
+
+C#, Mysql, SQL
+
+
+
 <!--
 **ronaldmirabal/ronaldmirabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
