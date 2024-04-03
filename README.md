@@ -2,7 +2,7 @@
 
 I'm 27 years old self-taught Full-Stack developer from Dominican Republic.
 
-C#, Mysql, SQL
+Laravel, Php, C#, Mysql, SQL
 
 
 
