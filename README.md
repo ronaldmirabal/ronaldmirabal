@@ -1,5 +1,5 @@
 <p align="center">
-# Hi,Im Ronald Mirabal
+Hi,Im Ronald Mirabal
 </p>
 
 # 💻 Tech Stack:
